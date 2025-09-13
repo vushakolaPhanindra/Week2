@@ -23,7 +23,7 @@ By doing so, the project contributes to:
 ## 📊 Dataset  
 The dataset used in this project is from Kaggle:  
 
-👉 [Crop and Fertilizer Dataset for Western Maharashtra](https://www.kaggle.com/datasets/sanchitagholap/crop-fertilizer-dataset-for-western-maharashtra)  
+👉 [Crop and Fertilizer Dataset for Western Maharashtra](https://www.kaggle.com/datasets/sanchitagholap/crop-fertilizer-dataset-for-western-maharashtra](https://www.kaggle.com/datasets/sanchitagholap/crop-and-fertilizer-dataset-for-westernmaharashtra))  
 
 It contains information about crops, soil nutrients (NPK), pH, rainfall, temperature, and fertilizer recommendations.  
 
